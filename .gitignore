@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Temporary Outputs / Logs
+*.log
+.DS_Store
